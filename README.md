@@ -33,39 +33,4 @@ Palavra: a _ o a _
 
 Linguagem C
 
-Compilador GCC (ou compatível)
-
-📂 Como compilar e executar
-
-Clone este repositório:
-
-git clone https://github.com/seu-usuario/jogo-da-forca-c.git
-
-
-Entre na pasta do projeto:
-
-cd jogo-da-forca-c
-
-
-Compile o código com gcc:
-
-gcc forca.c -o forca
-
-
-Execute o jogo:
-
-./forca
-
-📌 Próximas melhorias
-
-Permitir que o usuário insira suas próprias palavras.
-
-Implementar níveis de dificuldade.
-
-Adicionar suporte a acentos (UTF-8).
-
-Criar uma interface gráfica usando a biblioteca SDL.
-
-📜 Licença
-
-Este projeto está sob a licença MIT.
+Visual Studio Code
