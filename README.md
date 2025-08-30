@@ -69,5 +69,3 @@ Criar uma interface gráfica usando a biblioteca SDL.
 📜 Licença
 
 Este projeto está sob a licença MIT.
-
-Quer que eu já inclua também um diagrama da forca em ASCII (aquele bonequinho sendo enforcado conforme erra) para deixar o README mais ilustrativo?
